@@ -4,6 +4,18 @@
 
 @use "variables" as v;
 
+body {
+  line-height: 1.7;        // More "breathable" text
+  letter-spacing: -0.01em; // Tightens up Inter for a premium feel
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+  font-weight: 700;        // Bold, punchy headers
+  letter-spacing: -0.02em; // Modern "heading" look
+  margin-top: 2rem;
+}
+/**/
 p,
 h1,
 h2,
