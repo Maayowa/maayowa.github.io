@@ -360,7 +360,7 @@ layout: default
           </div>
         {% endif %}
 
-        <!-- Projects -->
+        <!-- Projectss -->
         {% if site.data.resume.projects.size > 0 %}
           <a class="anchor" id="projects"></a>
           <div class="card mt-3 p-3">
@@ -371,20 +371,6 @@ layout: default
             </div>
           </div>
         {% endif %}
-
-        <!-- References -->
-        {% comment %}
-        {% if site.data.resume.references.size > 0 %}
-          <a class="anchor" id="references"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">References</h3>
-            <div>
-              {% assign entries = site.data.resume.references %}
-              {% include cv/references.liquid %}
-            </div>
-          </div>
-        {% endif %}
-        {% endcomment %}
 
       {% else %}
         <p>No CV data found. Please configure either RenderCV (cv.yml) or JSONResume (resume.json) data.</p>
