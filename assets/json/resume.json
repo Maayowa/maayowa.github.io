@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Oluwabunmi Iwakin",
-    "label": "PhD Candidate",
+    "label": "PhD Candidate, Lehigh University",
     "image": "",
     "email": "einstein@example.com",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "website": "http://www.maayowa.github.io",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "PA",
+      "city": "Bethelehem",
       "countryCode": "US",
-      "region": "California"
+      "region": ""
     },
     "profiles": []
   },
