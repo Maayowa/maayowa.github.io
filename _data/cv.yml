@@ -18,7 +18,7 @@ cv:
     # street: 2712 Broadway St
     city: Bethlehem
     # region: California
-    postalCode: CA
+    postalCode: PA
     countryCode: US
 
   sections:
