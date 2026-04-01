@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-04-01'
 papers:
   4GKCRs8AAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -14,7 +14,7 @@ papers:
     title: Deep learning-enhanced economic dispatch for integrated microgrid-water systems with desalination
     year: '2026'
   4GKCRs8AAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 1
     title: Data-driven economic dispatch towards operational management of distributed energy resources for grid-connected water-energy microgrids
     year: '2025'
   4GKCRs8AAAAJ:_kc_bZDykSQC:
@@ -26,7 +26,7 @@ papers:
     title: Rapid characterization of MSW and RDF feedstocks for waste-to-energy process using LIBS and ML techniques
     year: '2025'
   4GKCRs8AAAAJ:d1gkVwhDpl0C:
-    citations: 32
+    citations: 34
     title: Improving urban water demand forecast using conformal prediction-based hybrid machine learning models
     year: '2024'
   4GKCRs8AAAAJ:kNdYIx-mwKoC:
