@@ -1,20 +1,28 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-05-06'
 papers:
   4GKCRs8AAAAJ:3fE2CSJIrl8C:
-    citations: 2
+    citations: 3
     title: "Hardware-in-the-Loop Simulation of Data-Driven Economic Dispatch Problem for Integrated Water\u2013Energy Systems"
     year: '2025'
   4GKCRs8AAAAJ:4TOpqqG69KYC:
     citations: 0
     title: Machine Learning in the Context of Laser-Induced Breakdown Spectroscopy
     year: '2025'
-  4GKCRs8AAAAJ:Wp0gIr-vW9MC:
+  4GKCRs8AAAAJ:9ZlFYXVOiuMC:
     citations: 0
+    title: 'InTaSet: A benchmark dataset for data-driven system identification and fault detection in an interconnected water system'
+    year: '2025'
+  4GKCRs8AAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: An Uncertainty-Aware Leakage Detection Framework Based on Monte Carlo Dropout Neural Network
+    year: Unknown Year
+  4GKCRs8AAAAJ:Wp0gIr-vW9MC:
+    citations: 1
     title: Deep learning-enhanced economic dispatch for integrated microgrid-water systems with desalination
     year: '2026'
   4GKCRs8AAAAJ:Zph67rFs4hoC:
-    citations: 1
+    citations: 3
     title: Data-driven economic dispatch towards operational management of distributed energy resources for grid-connected water-energy microgrids
     year: '2025'
   4GKCRs8AAAAJ:_kc_bZDykSQC:
@@ -26,13 +34,21 @@ papers:
     title: Rapid characterization of MSW and RDF feedstocks for waste-to-energy process using LIBS and ML techniques
     year: '2025'
   4GKCRs8AAAAJ:d1gkVwhDpl0C:
-    citations: 34
+    citations: 36
     title: Improving urban water demand forecast using conformal prediction-based hybrid machine learning models
     year: '2024'
+  4GKCRs8AAAAJ:dhFuZR0502QC:
+    citations: 0
+    title: 'WDSEventDB: A Real-Time Benchmark Dataset for Event Diagnosis in Water Distribution Networks'
+    year: '2025'
   4GKCRs8AAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: "Stochastic Economic Dispatch for Combined Water\u2013Energy Microgrid Systems Considering Data-Driven Scenario Generation Approach"
     year: '2025'
+  4GKCRs8AAAAJ:mVmsd5A6BfQC:
+    citations: 0
+    title: Optimal Scheduling for Water-Energy Systems Based on Data-Driven Learned Constraints
+    year: Unknown Year
   4GKCRs8AAAAJ:u-x6o8ySG0sC:
     citations: 5
     title: "Short-term water demand prediction using machine learning techniques\u2014a case study of telford borough in pennsylvania"
