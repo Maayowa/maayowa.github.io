@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-06-12'
 papers:
   4GKCRs8AAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -12,7 +12,7 @@ papers:
   4GKCRs8AAAAJ:9ZlFYXVOiuMC:
     citations: 0
     title: 'InTaSet: A benchmark dataset for data-driven system identification and fault detection in an interconnected water system'
-    year: '2025'
+    year: '2026'
   4GKCRs8AAAAJ:QIV2ME_5wuYC:
     citations: 0
     title: An Uncertainty-Aware Leakage Detection Framework Based on Monte Carlo Dropout Neural Network
@@ -30,17 +30,17 @@ papers:
     title: Artificial Intelligence Techniques in LIBS Data Analysis and Interpretation
     year: '2025'
   4GKCRs8AAAAJ:aqlVkmm33-oC:
-    citations: 3
+    citations: 5
     title: Rapid characterization of MSW and RDF feedstocks for waste-to-energy process using LIBS and ML techniques
     year: '2025'
   4GKCRs8AAAAJ:d1gkVwhDpl0C:
-    citations: 36
+    citations: 38
     title: Improving urban water demand forecast using conformal prediction-based hybrid machine learning models
     year: '2024'
   4GKCRs8AAAAJ:dhFuZR0502QC:
     citations: 0
     title: 'WDSEventDB: A Real-Time Benchmark Dataset for Event Diagnosis in Water Distribution Networks'
-    year: '2025'
+    year: '2026'
   4GKCRs8AAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: "Stochastic Economic Dispatch for Combined Water\u2013Energy Microgrid Systems Considering Data-Driven Scenario Generation Approach"
