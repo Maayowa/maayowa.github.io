@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-24'
 papers:
   4GKCRs8AAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -30,11 +30,11 @@ papers:
     title: Artificial Intelligence Techniques in LIBS Data Analysis and Interpretation
     year: '2025'
   4GKCRs8AAAAJ:aqlVkmm33-oC:
-    citations: 6
+    citations: 7
     title: Rapid characterization of MSW and RDF feedstocks for waste-to-energy process using LIBS and ML techniques
     year: '2025'
   4GKCRs8AAAAJ:d1gkVwhDpl0C:
-    citations: 40
+    citations: 41
     title: Improving urban water demand forecast using conformal prediction-based hybrid machine learning models
     year: '2024'
   4GKCRs8AAAAJ:dhFuZR0502QC:
