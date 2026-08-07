@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-07'
 papers:
   4GKCRs8AAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -9,6 +9,10 @@ papers:
     citations: 0
     title: Machine Learning in the Context of Laser-Induced Breakdown Spectroscopy
     year: '2025'
+  4GKCRs8AAAAJ:7PzlFSSx8tAC:
+    citations: 1
+    title: Application of Nano-Technology in Leachate Treatment
+    year: '2021'
   4GKCRs8AAAAJ:9ZlFYXVOiuMC:
     citations: 0
     title: 'InTaSet: A benchmark dataset for data-driven system identification and fault detection in an interconnected water system'
@@ -22,11 +26,11 @@ papers:
     title: Deep learning-enhanced economic dispatch for integrated microgrid-water systems with desalination
     year: '2026'
   4GKCRs8AAAAJ:Zph67rFs4hoC:
-    citations: 5
+    citations: 6
     title: Data-driven economic dispatch towards operational management of distributed energy resources for grid-connected water-energy microgrids
     year: '2025'
   4GKCRs8AAAAJ:_kc_bZDykSQC:
-    citations: 0
+    citations: 1
     title: Artificial Intelligence Techniques in LIBS Data Analysis and Interpretation
     year: '2025'
   4GKCRs8AAAAJ:aqlVkmm33-oC:
@@ -34,7 +38,7 @@ papers:
     title: Rapid characterization of MSW and RDF feedstocks for waste-to-energy process using LIBS and ML techniques
     year: '2025'
   4GKCRs8AAAAJ:d1gkVwhDpl0C:
-    citations: 41
+    citations: 44
     title: Improving urban water demand forecast using conformal prediction-based hybrid machine learning models
     year: '2024'
   4GKCRs8AAAAJ:dhFuZR0502QC:
