@@ -5,15 +5,72 @@
 @use "variables" as v;
 
 body {
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   line-height: 1.7;        // More "breathable" text
   letter-spacing: -0.01em; // Tightens up Inter for a premium feel
   -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3 {
+// Headings use Zilla Slab for a clean, academic identity.
+// Body text uses Source Sans 3 (no invasive body-font change beyond the typeface stack).
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title {
+  font-family: "Zilla Slab", Georgia, serif;
   font-weight: 700;        // Bold, punchy headers
   letter-spacing: -0.02em; // Modern "heading" look
-  margin-top: 2rem;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+// First heading on a page should not carry the default top gap.
+h1:first-child,
+h2:first-child,
+h3:first-child {
+  margin-top: 0;
+}
+
+// Homepage name (about layout) and blog post titles get a measured size.
+.post-title {
+  font-size: clamp(2.1rem, 5vw, 2.9rem);
+  line-height: 1.15;
+}
+
+// Homepage subtitle — small, refined, with breathing room below.
+.desc {
+  margin-top: 0.75rem;
+  margin-bottom: 1.5rem;
+  font-size: 1.05rem;
+  color: var(--global-text-color-light);
+  line-height: 1.5;
+}
+
+// Section headings (news / latest posts / selected publications) get a
+// subtle, consistent treatment instead of bare lowercase links.
+h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: lowercase;
+  margin-top: 2.5rem;
+
+  a {
+    color: var(--global-text-color);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--global-theme-color);
+    }
+  }
+}
+
+// Tighten the gap between a section heading and its first child element.
+h2 + * {
+  margin-top: 0.75rem;
 }
 /**/
 p,

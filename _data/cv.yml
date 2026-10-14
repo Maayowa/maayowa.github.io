@@ -1,139 +1,197 @@
 cv:
   name: Oluwabunmi Iwakin
-  label: PhD Candidate, Lehigh University
-  # email: einstein@example.com
-  location: Bethelehem, PA
+  label: Postdoctoral Appointee, Argonne National Laboratory
+  email: omi222@lehigh.edu
+  phone: "+1-484-871-9392"
+  location: Chicago, IL
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    Postdoctoral Appointee at Argonne National Laboratory. PhD in Civil Engineering from Lehigh University.
+    Research in water–energy systems, optimization, and data-driven infrastructure, with emphasis on
+    machine learning methods for accelerated numerical optimization and their application to water and energy systems.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
+    - network: Email
+      username: omi222@lehigh.edu
+    - network: Google Scholar
+      username: bPFMBg0AAAAJ
+    - network: ORCID
+      username: 0000-0002-1825-0097
     - network: LinkedIn
-      username: example
+      username: iwakinoluwabunmi
+    - network: GitHub
+      username: Maayowa
 
   address:
-    # street: 2712 Broadway St
-    city: Bethlehem
-    # region: California
-    postalCode: PA
+    city: Chicago
+    region: IL
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Lehigh University
+        location: Bethlehem, PA
+        url: https://www.lehigh.edu/
+        area: Civil Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2022-06
+        end_date: 2025-12
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Advisor: Dr. Faegheh Moazeni
+          - Focus: Interconnected critical infrastructure systems
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Lehigh University
+        location: Bethlehem, PA
+        url: https://www.lehigh.edu/
+        area: Civil Engineering
+        studyType: M.Sc.
+        start_date: 2022-01
+        end_date: 2025-12
+        score: "3.91 / 4.00"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Advisor: Dr. Faegheh Moazeni
+
+      - institution: Federal University of Technology Akure
+        location: Ondo, Nigeria
+        url: https://www.futa.edu.ng/
+        area: Civil Engineering
+        studyType: B.Eng.
+        start_date: 2014-11
+        end_date: 2019-12
+        score: "3.69 / 4.00"
+        courses: ""
+        highlights:
+          - Advisor: Dr. Olaolu G. Fadugba
+          - Thesis: Application of Multivariate Data Analysis in the interpretation of Geotechnical Index Parameters
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Argonne National Laboratory
+        position: Visiting Graduate Student / Research Scientist
+        location: Chicago, IL
+        start_date: 2026-01
+        end_date: Present
+        summary: Developing optimization-based mathematical models and performing data analyses to assess system performance and provide insights into the planning and management of hydropower systems.
         highlights:
-          - Relativity
-          - Description 2.
+          - Optimization modeling for hydropower systems
+          - Data analysis for system performance assessment
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Lehigh University - CONCISE Laboratory
+        position: Research Assistant
+        location: Bethlehem, PA
+        start_date: 2022-06
+        end_date: Present
+        summary: Computational research on water-energy systems optimization, including network simulations, system resilience analysis, critical infrastructure modeling and experimental hardware-in-the-loop validations.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Water-energy systems optimization
+          - Network simulations and resilience analysis
+          - Hardware-in-the-loop experimental validation
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Lehigh University - Energy Research Center
+        position: Research Assistant
+        location: Bethlehem, PA
+        start_date: 2022-01
+        end_date: 2025-12
+        summary: Designed and implemented machine-learning pipelines and an internal Python-based GUI for rapid MSW feedstock characterization, enabling feed-forward control in downstream biofuel production workflows.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - ML pipelines for waste characterization
+          - Python GUI development
+          - Feed-forward control for biofuel production
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Federal University of Technology Akure
+        position: Research Assistant
+        location: Ondo, Nigeria
+        start_date: 2021-03
+        end_date: 2021-11
+        summary: Conducted research on advanced waste management techniques and investigated the application of nanotechnology in enhancing water and wastewater treatment processes.
+        highlights:
+          - Waste management research
+          - Nanotechnology for water treatment
+
+    Service:
+      - organization: ASCE-EWRI Water Distribution Systems Analysis (WDSA) Graduate Committee
+        position: Chairman
+        location: US
+        start_date: 2024-01
+        end_date: Present
+        summary: Plan and moderate meetings, webinars, and networking events relevant for M.Sc. and Ph.D. students working in the water distribution systems analysis domain.
+        highlights:
+          - Meeting and webinar coordination
+          - Graduate student networking and career development
+
+    Reviewing:
+      - journal: Engineering Applications of Artificial Intelligence (Elsevier)
+        role: Ad-hoc Reviewer
+      - journal: Advanced Engineering Informatics (Elsevier)
+        role: Ad-hoc Reviewer
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming Languages
+        level: Proficient
+        icon: fa-solid fa-code
+        keywords: "Python, MATLAB, SQL (Basics), JavaScript (Basics)"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Version Control
+        level: Proficient
+        icon: fa-solid fa-git-alt
+        keywords: "Git"
 
-      - name: English
-        summary: "Fluent"
+      - name: Optimization & Modeling
+        level: Expert
+        icon: fa-solid fa-sitemap
+        keywords: "GurobiPy, Pyomo, WNTR"
 
-    Research Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Data Science & ML
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "NumPy, SciPy, Pandas, Matplotlib, PyTorch, NetworkX"
 
-    # Certificates:
-    #   - name: Machine Learning
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-location-dot
+      - name: Documentation
+        level: Proficient
+        icon: fa-solid fa-file-lines
+        keywords: "LaTeX, Beamer"
 
-    #   - name: Quantum Computing
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-tag
+      - name: Spoken Languages
+        level: Native
+        icon: fa-solid fa-language
+        keywords: "English, Yoruba, American Sign Language (Basics)"
 
-    #   - name: Quantum Information
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-envelope
+    Publications:
+      - name: "Deep learning-enhanced economic dispatch for integrated microgrid-water systems with desalination"
+        publisher: Journal of Water Process Engineering
+        releaseDate: 2026-01
+        url: https://doi.org/10.1016/j.jwpe.2025.109316
+        summary: Volume 81, 109316
 
-    # Projects:
-    #   - name: Quantum Computing
-    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-    #     highlights:
-    #       - Quantum Teleportation
-    #       - Quantum Cryptography
-    #     start_date: 2018-01-01
-    #     end_date: 2018-01-01
+      - name: "Data-driven economic dispatch towards operational management of distributed energy resources for grid-connected water-energy microgrids"
+        publisher: Energy
+        releaseDate: 2025-08
+        url: https://doi.org/10.1016/j.energy.2025.137668
+        summary: 137668
 
-    # References:
-    #   - name: Professor John Doe
-    #     icon: fa-solid fa-laptop
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Improving urban water demand forecast using conformal prediction-based hybrid machine learning models"
+        publisher: Journal of Water Process Engineering
+        releaseDate: 2024-02
+        url: https://doi.org/10.1016/j.jwpe.2023.104721
+        summary: Volume 58, 104721
 
-    #   - name: Professor Jane Smith
-    #     icon: fa-solid fa-thumbtack
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Short-Term Water Demand Prediction Using Machine Learning Techniques—A Case Study of Telford Borough in Pennsylvania"
+        publisher: World Environmental and Water Resources Congress 2023
+        releaseDate: 2023
+        url: https://doi.org/10.1061/9780784484852.094
+        summary: Pages 1027-1036
+
+    Datasets:
+      - name: "InTaSet: A Benchmark Dataset for Data-Driven System Identification and Fault Detection in an Interconnected Water System"
+        publisher: Zenodo
+        releaseDate: 2025
+        url: https://doi.org/10.5281/zenodo.17652851
+        summary: Co-authored with Putri, S.A., Villacrés, D., Raza, N., Moazeni, F.
+
+      - name: "WDSEventDB: A real-time benchmark dataset for event diagnosis in water distribution networks"
+        publisher: Zenodo
+        releaseDate: 2025
+        url: https://doi.org/10.5281/zenodo.17547955
+        summary: Co-authored with Raza, N., Villacrés, D., Putri, S.A., Moazeni, F.

@@ -8,8 +8,13 @@ _site
 .sass-cache
 .tweet-cache
 .venv
+.agents
+.vscode
+.kilo
+skills-lock.json
 assets/libs/
 assets/rendercv/rendercv_output/*.typ
 Gemfile.lock
 node_modules/
 vendor
+CONTEXT.TXT
