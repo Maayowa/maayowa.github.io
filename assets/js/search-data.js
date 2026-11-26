@@ -25,10 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Curriculum Vitae",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/https:/maayowa.github.io/assets/pdf/recent_resume.pdf";
           },
         },{id: "post-a-post-with-images",
         
@@ -52,8 +52,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-new-paper-from-my-phd-thesis-out-in-energy-conversion-and-management-optimal-design-and-techno-economic-analysis-of-wave-integrated-hybrid-energy-systems-for-coastal-communities-with-m-gilani-nejad-d-villacres-j-khazaei-a-banerjee-and-f-moazeni",
+          title: 'New paper from my PhD thesis, out in Energy Conversion and Management: Optimal...',
           description: "",
           section: "News",},{
         id: 'social-cv',
@@ -95,7 +95,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0002-1825-0097", "_blank");
+          window.open("https://orcid.org/0000-0002-4770-6700", "_blank");
         },
       },{
       id: 'light-theme',
