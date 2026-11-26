@@ -68,33 +68,41 @@ cv:
           - Thesis: Application of Multivariate Data Analysis in the interpretation of Geotechnical Index Parameters
 
     Experience:
-      - company: Argonne National Laboratory
-        position: Visiting Graduate Student / Research Scientist
+      - company: ESI Generation and Storage Analysis, Argonne National Laboratory
+        position: Postdoctoral Research Scientist
+        location: Chicago, IL
+        start_date: 2026-08
+        end_date: Present
+        summary: "Supervisor: Dr. Quentin Ploussard"
+        highlights: []
+
+      - company: ESI Generation and Storage Analysis, Argonne National Laboratory
+        position: Visiting Graduate Student
         location: Chicago, IL
         start_date: 2026-01
-        end_date: Present
-        summary: Developing optimization-based mathematical models and performing data analyses to assess system performance and provide insights into the planning and management of hydropower systems.
+        end_date: 2026-05
+        summary: "Research Scientist: Dr. Quentin Ploussard. Developing optimization-based mathematical models and performing data analyses to assess system performance and provide insights into the planning and management of hydropower systems."
         highlights:
           - Optimization modeling for hydropower systems
           - Data analysis for system performance assessment
 
-      - company: Lehigh University - CONCISE Laboratory
+      - company: Interconnected Critical Infrastructure Systems Engineering (CONCISE) Laboratory, Lehigh University
         position: Research Assistant
         location: Bethlehem, PA
         start_date: 2022-06
-        end_date: Present
-        summary: Computational research on water-energy systems optimization, including network simulations, system resilience analysis, critical infrastructure modeling and experimental hardware-in-the-loop validations.
+        end_date: 2026-08
+        summary: "Advisor: Dr. Faegheh Moazeni. Computational research on water-energy systems optimization, including network simulations, system resilience analysis, critical infrastructure modeling and experimental hardware-in-the-loop validations."
         highlights:
           - Water-energy systems optimization
           - Network simulations and resilience analysis
           - Hardware-in-the-loop experimental validation
 
-      - company: Lehigh University - Energy Research Center
+      - company: Energy Research Center, Lehigh University
         position: Research Assistant
         location: Bethlehem, PA
         start_date: 2022-01
         end_date: 2025-12
-        summary: Designed and implemented machine-learning pipelines and an internal Python-based GUI for rapid MSW feedstock characterization, enabling feed-forward control in downstream biofuel production workflows.
+        summary: "Principal Investigator: Dr. Carlos Romero. Designed and implemented machine-learning pipelines and an internal Python-based GUI for rapid MSW feedstock characterization, enabling feed-forward control in downstream biofuel production workflows."
         highlights:
           - ML pipelines for waste characterization
           - Python GUI development
@@ -105,10 +113,18 @@ cv:
         location: Ondo, Nigeria
         start_date: 2021-03
         end_date: 2021-11
-        summary: Conducted research on advanced waste management techniques and investigated the application of nanotechnology in enhancing water and wastewater treatment processes.
+        summary: "Advisor: Dr. Olaolu G. Fadugba. Conducted research on advanced waste management techniques and investigated the application of nanotechnology in enhancing water and wastewater treatment processes."
         highlights:
           - Waste management research
           - Nanotechnology for water treatment
+
+      - company: Abiola Ajimobi Technical University
+        position: Graduate Engineer Trainee
+        location: Oyo, Nigeria
+        start_date: 2020-05
+        end_date: 2021-02
+        summary: "Advisor: Lateef Olalekan. Produced analysis, design, and detailing of structural members for hostels and laboratories using CAD while collaborating with professionals, participating in project meetings, and preparing technical specifications and documentation."
+        highlights: []
 
     Service:
       - organization: ASCE-EWRI Water Distribution Systems Analysis (WDSA) Graduate Committee

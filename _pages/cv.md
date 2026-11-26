@@ -1,12 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
+layout: null
+permalink: https://maayowa.github.io/assets/pdf/recent_resume.pdf
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/recent_resume.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: Curriculum Vitae #This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
