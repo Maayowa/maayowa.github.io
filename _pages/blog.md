@@ -2,6 +2,7 @@
 layout: default
 permalink: /blog/
 title: blog
+description: Notes on my research and other interests, coming soon.
 nav: true
 nav_order: 1
 pagination:

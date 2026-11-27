@@ -15,14 +15,18 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 5
+  limit: 3
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
 
-I am a Postdoctoral Appointee at Argonne National Laboratory. I hold a PhD in Civil Engineering from Lehigh University, where I studied interconnected critical infrastructure systems. My research lies in water–energy systems, optimization, and data-driven infrastructure, with an emphasis on computational approaches for complex system analysis and decision support.
+Hey, you found me 🥲
 
-I am particularly interested in machine learning methods for accelerated numerical optimization and their application to infrastructure planning and operations in water and energy domains. My broader goal is to contribute to methods that improve the efficiency, resilience, and intelligence of critical infrastructure systems. I am also developing an interest in AI safety and am actively learning about research in that area. If you know of useful resources in AI safety, I would be glad to learn from them.
+I'm a Postdoctoral Appointee at Argonne National Laboratory. I hold a PhD in Civil Engineering from Lehigh University, where I studied interconnected critical infrastructure systems. My research lies in water–energy systems, optimization, and data-driven infrastructure, with an emphasis on computational approaches for complex system analysis and decision support.
+
+I'm particularly interested in machine learning methods for accelerated numerical optimization and their application to infrastructure planning and operations in water and energy. My broader goal is to contribute to methods that improve the efficiency, resilience, and intelligence of critical infrastructure systems—and I'm increasingly interested in how AI safety intersects with real-world infrastructure.
+
+This website is a documentation space for my research, interests, and existential worries. Bienvenidos.

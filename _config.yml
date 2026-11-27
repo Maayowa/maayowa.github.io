@@ -9,7 +9,7 @@ last_name: Iwakin
 contact_note: >
   Best way to reach me: email at omi222@lehigh.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoctoral Appointee at Argonne National Laboratory. PhD in Civil Engineering from Lehigh University. Research in water–energy systems, optimization, and data-driven infrastructure.
+  Postdoctoral Appointee at Argonne National Laboratory working on optimization and machine learning for water and energy infrastructure. PhD in Civil Engineering, Lehigh University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: "Bunmi's Blog" # blog_name will be displayed in your blog page
-blog_description: "Research notes on water–energy systems, optimization, and data-driven infrastructure"
+blog_description: "Research notes are on their way."
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -262,8 +262,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
