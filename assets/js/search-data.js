@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-blog",
           title: "blog",
-          description: "",
+          description: "Notes on my research and other interests, coming soon.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
@@ -30,30 +30,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/maayowa.github.io/assets/pdf/Iwakin_CV.pdf";
           },
-        },{id: "post-a-post-with-images",
+        },{id: "post-research-notes-are-on-their-way",
         
-          title: "a post with images",
+          title: "Research notes are on their way",
         
-        description: "this is what included images could look like",
+        description: "Notes on my research and other interests are coming soon.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/images/";
+            window.location.href = "/blog/2026/research-notes-coming-soon/";
           
         },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
-          
-        },
-      },{id: "news-new-paper-from-my-phd-thesis-out-in-energy-conversion-and-management-optimal-design-and-techno-economic-analysis-of-wave-integrated-hybrid-energy-systems-for-coastal-communities-with-m-gilani-nejad-d-villacres-j-khazaei-a-banerjee-and-f-moazeni",
-          title: 'New paper from my PhD thesis, out in Energy Conversion and Management: Optimal...',
+      },{id: "news-a-real-time-benchmark-dataset-for-event-diagnosis-in-water-distribution-networks-collected-from-a-lab-scale-system-with-emulated-failures-it-covers-cyber-physical-attacks-leakages-and-sensor-failures-and-includes-four-baseline-detection-models-presented-at-the-ewri-world-congress-2026",
+          title: 'A real-time benchmark dataset for event diagnosis in water distribution networks, collected from...',
+          description: "",
+          section: "News",},{id: "news-i-defended-my-dissertation-in-civil-engineering-at-lehigh-university-on-june-10-2026-the-thesis-data-driven-methods-for-optimal-planning-and-management-of-interconnected-critical-infrastructural-systems-will-be-publicly-available-in-august-2027",
+          title: 'I defended my dissertation in Civil Engineering at Lehigh University on June 10,...',
+          description: "",
+          section: "News",},{id: "news-our-work-examining-the-techno-economic-feasibility-of-wave-energy-converters-in-low-to-moderate-energy-seas-using-new-jersey-as-a-case-study-is-now-published",
+          title: 'Our work examining the techno-economic feasibility of wave energy converters in low-to-moderate energy...',
           description: "",
           section: "News",},{
         id: 'social-cv',
