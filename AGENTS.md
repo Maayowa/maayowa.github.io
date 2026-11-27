@@ -63,7 +63,7 @@ bundle install
 - **Current role**: Postdoctoral Appointee, Argonne National Laboratory, Chicago, IL
 - **Scholar config** in `_config.yml` must match publications: `last_name: [Iwakin]`, `first_name: [Oluwabunmi, Oluwabunmi M., O.]`
 - **Profile image**: `assets/img/header.jpeg` (set in `_pages/about.md` frontmatter)
-- **CV PDF**: `assets/pdf/recent_resume.pdf` — reference this path, not inventing a new one
+- **CV PDF**: `assets/pdf/Iwakin_CV.pdf` — reference this path, not inventing a new one
 
 ## Sections to keep
 About, Publications, Blog, News, CV — all configured and ready.
